@@ -1,0 +1,83 @@
+.first{
+    background-color:darkolivegreen;
+    color: white;
+}
+
+.card{
+    
+    background-color:rgba(0, 0, 0, 0.452);
+    color:white;
+}
+.sect3{
+  display: none;  
+}
+input{
+   
+    border: none;
+    border: 1px solid blue;
+    
+}
+textarea{
+    
+    border:1px solid blue ;
+}
+.sect4{
+    display: none;
+}
+.sect5{
+    background-image: url('closeup-glass-with-water-drips-it-after-rain.jpg');
+    display: none;
+    padding: 20px;
+   
+    margin-left:300px;
+    margin-right: 300px;
+    
+}
+body{
+    background: transparent;
+    background-image: url('Popular_3d_Social_Media_Icons_Coming_Out_of_Phone.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.msgbox{
+    height: auto;
+    width: 400px;
+    background-color: rgba(240, 248, 255, 0.526);
+    
+}
+#msg{
+    background:transparent;
+    
+
+}
+#row{
+    background: transparent;
+}
+.msghead{
+    height: 50px;
+    width: 400px;
+    background-color: rgba(240, 248, 255, 0.526);
+    font-size: 30px;
+    
+    
+}
+.sect6{
+    width: 400px;
+    height: auto;
+    
+    display: none;
+}
+#profbtn{
+    color: white;
+}
+#msgbtn{
+    color: white;
+}
+#editbtn{
+    color: white;
+}
+#flbtn{
+    color: white;
+}
